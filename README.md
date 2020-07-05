@@ -1,7 +1,7 @@
 # Mastermind Solver
-Efficiently solves any given Mastermind puzzle using a genetic algorithm described in the reference literature.
+Efficiently solves any Mastermind puzzle using a genetic algorithm described in the reference literature pdf.
 
-Also includes a completely random player for comparison, and a gameplay mode so the user can play the game themselves.
+Also includes a completely random player for comparison, and an interactive gameplay mode so the user can play the game themselves.
 
 ## Running
 Run the main method in class Driver to begin the program.  You will first be presented with the following menu:
@@ -28,7 +28,7 @@ Enter Player's name: Greg
 	For a GA Player, type 'GA'
 Enter Player type: 
 ```
-If type HUMAN entered, the game will be iteractive.  Otherwise, a number of games will be played by an AI player of the specified type.
+If type HUMAN entered, the game will be interactive.  Otherwise, a number of games will be played by an AI player of the specified type.
 
 Second, enter selection 2 to specify the number of "codes" will exist in each game (a standard Mastermind game has 4 codes):
 ```
